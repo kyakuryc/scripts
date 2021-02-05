@@ -1,0 +1,21 @@
+_G.HalfNet = false -- Recommend false. Only use it if its laggy for your server, change false to true to make it so you use half net
+_G.CustomGui = false -- if you have custom gui turn this on, put the custom gui script below this loadstring
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sylixe/MiztHub/master/MainFolder/uqXAxyVdQpWTcRCdFXU6Yt2meuDkYcLUDN4SJRekQWZ5wp368zKHreYT4w82AH4U.lua",true))()
+--[[
+Keybind for Hide/Show gui is 
+Shift + L
+
+if you use simple reanim and want to do bullet fling here is the list of bullet, bullet fling need full net make sure to check full net on setting, pick one out of all the three bullet
+https://www.roblox.com/catalog/1103003368/Orange-Beanie-with-Black-Hair
+https://www.roblox.com/catalog/5205483683/Fiery-Fox-Shoulder-Pal
+https://www.roblox.com/catalog/4504231783/Elemental-Crystal-Golem-Shoulder-Rock (https://www.roblox.com/bundles/598/Elemental-Crystal-Golem)
+
+FULL DOCUMENTATION OF SCRIPT IS HERE CHECK IT BEFORE ASKING WHAT TO USE (and hats to use)
+https://sites.google.com/view/mizthub/home
+
+PRESS F9 TO SEE PROGRESS, DO NOT LEAVE WHEN THE SCRIPT DOWNLOADING ANOTHER SCRIPT OR IT WILL BREAK
+if you don't know how to use mizthub, u need to click the reanim and then click the script u want to choose and then click execute
+if you broke it or in f9 it say something broken just delete the mizthub folder in workspace
+
+Make sure to set fps max to 60.
+]]--
